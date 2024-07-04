@@ -24,12 +24,20 @@ In theory, you can download and run the .exe without installing AutoIt. In pract
 
 The current hotkeys are
 
-Pause/Play:       Win+F8
-Mute:             Win+F9
-Vol Down:         Win+F10
-Vol Up:           Win+F11
-Exit/End Script:  Win+Esc
+Previous:           Win+F6
+Next:               Win+F7
+Pause/Play:         Win+F8
+Mute:               Win+F9
+Vol Down:           Win+F10
+Vol Up:             Win+F11
+Exit/End Script:    Win+Esc
 
 If you don't have FnLock on, make sure you also hold Fn.
 
 The Pause might only work on some things - Firefox isn't letting it work in YouTube. I think there are browser settings about allowing hardware media controls. 
+
+---
+
+**Customization**
+
+I intend to add an easy way to change the hotkeys. In the meantime, you can do this yourself. Edit the .au3 file (with any text editor), and change the key in the HotKeySet functions. (There are instructions in the script.) Refer to the AutoIt documentation for help.
