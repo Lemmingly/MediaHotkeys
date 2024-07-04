@@ -24,13 +24,13 @@ In theory, you can download and run the .exe without installing AutoIt. In pract
 
 The current hotkeys are
 
-Previous:           Win+F6
-Next:               Win+F7
-Pause/Play:         Win+F8
-Mute:               Win+F9
-Vol Down:           Win+F10
-Vol Up:             Win+F11
-Exit/End Script:    Win+Esc
+Previous:           Win+F6\
+Next:               Win+F7\
+Pause/Play:         Win+F8\
+Mute:               Win+F9\
+Vol Down:           Win+F10\
+Vol Up:             Win+F11\
+Exit/End Script:    Win+Esc\
 
 If you don't have FnLock on, make sure you also hold Fn.
 
